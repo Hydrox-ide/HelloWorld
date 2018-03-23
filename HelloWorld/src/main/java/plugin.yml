@@ -1,0 +1,10 @@
+name: HelloWorld
+main: helloworld.Main
+version: 1.0
+author: rpgturtle
+commands:
+  ayy:
+    description: lmao
+    usage: /<command>
+    permission: helloworld.ayy
+    permission-message: no lmao
