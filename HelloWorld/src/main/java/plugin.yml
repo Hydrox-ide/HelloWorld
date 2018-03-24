@@ -6,5 +6,3 @@ commands:
   ayy:
     description: lmao
     usage: /<command>
-    permission: helloworld.ayy
-    permission-message: no lmao
